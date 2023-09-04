@@ -1,3 +1,13 @@
+***
+<div align ="center">
+  
+<img src = "https://simpleicons.org/icons/affinity.svg" role="img" height="275" width="550"></img>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cyberpunk&weight=900&pause=1000&color=00F0FF&background=FFF10900&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Bem+vindo+ao+meu+perfil+%F0%9F%94%B0;Meu+Nome+é+Arizio." alt="Typing SVG" /></a>
+
+***
+</div>
+
 ### Olá 👋🏾! Sou Arizio Neto 😃
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Multivix do Espírito Santo (EAD), Estou cursando Técnico em Informática no CEET Vasco Coutinho (Presencial), também sou bolsita do bootcamp Santander Bootcamp 2023 - Fullstack Java+Angular pela DIO.
@@ -21,4 +31,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Multivix do
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 </div>
-
